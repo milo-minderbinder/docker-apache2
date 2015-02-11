@@ -1,6 +1,6 @@
-# mminderbinder/apache2:oracle-java7
-# Apache2 with Oracle Java 7 JDK Docker Image
-FROM mminderbinder/java-jdk:oracle-java7
+# mminderbinder/apache2:oracle-java8
+# Apache2 with Oracle Java 8 JDK Docker Image
+FROM mminderbinder/java-jdk:oracle-java8
 MAINTAINER Milo Minderbinder <minderbinder.enterprises@gmail.com>
 
 
